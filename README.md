@@ -2,7 +2,7 @@
 
 A simple JavaScript utility function that checks whether a given value is a boolean (`true` or `false`).
 
-## 🚀 Function
+##  Function
 
 ```js
 function booWho(bool) {
